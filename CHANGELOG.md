@@ -26,8 +26,9 @@ The meaning of each subcategory of change is as follows:
 ### Removed
 
 ### Fixed
+- Fixed typo in the changelog; had the wrong date for v1.0.0
 
-## [v1.0.0] - 2022-12-06
+## [v1.0.0] - 2022-12-09
 - The initial public release.
 
 <!--Links-->
