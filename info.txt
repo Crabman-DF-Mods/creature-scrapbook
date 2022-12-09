@@ -1,0 +1,15 @@
+[ID:creature_scrapbook]
+[NUMERIC_VERSION:1]
+[DISPLAYED_VERSION:v1.0.0]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:1]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:v1.0.0]
+
+[AUTHOR:Mr Crabman]
+[NAME:Creature Scrapbook]
+[DESCRIPTION:A bunch of creature variations, body detail plans, body parts and materials, for other mods to build off of. Does nothing by itself.]
+
+[STEAM_TITLE:Creature Scrapbook]
+
+[STEAM_TAG:Utility Mod]
+
+[STEAM_FILE_ID:2899540654]
